@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 ### csvcombiner.py
 
 ```
-$ python3 ./csvcombiner.py ./fixtures/accessories.csv ./clothing.csv > combined.csv 
+$ python3 ./csvcombiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv 
 ```
 
 ### testcsvcombiner.py
